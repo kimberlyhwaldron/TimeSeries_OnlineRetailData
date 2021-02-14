@@ -1,15 +1,6 @@
 ---
 title: "<center> Online Retail Data <br> Time Series Predictive Modeling </center>"
 author: "<center> Kimberly Healy  |  healy.kim@gmx.us </center>"
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
 
