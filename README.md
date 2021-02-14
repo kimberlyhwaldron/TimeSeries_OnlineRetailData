@@ -1,19 +1,7 @@
 ---
-title: "<center> Online Retail Data <br> Time Series Predictive Modeling </center>"
-author: "<center> Kimberly Healy  |  healy.kim@gmx.us </center>"
+## Online Retail Data <br> Time Series Predictive Modeling
+## Kimberly Healy  |  healy.kim@gmx.us
 ---
-
-
-```{css, echo=FALSE}
-pre {
-  max-height: 300px;
-  overflow-y: auto;
-}
-
-pre[class] {
-  max-height: 100px;
-}
-```
 
 
 ## Background
