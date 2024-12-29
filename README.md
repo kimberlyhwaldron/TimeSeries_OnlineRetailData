@@ -1,6 +1,6 @@
 ---
 ## Online Retail Data <br> Time Series Predictive Modeling
-## Kimberly Healy  |  healy.kim@gmx.us
+## Kimberly Waldron  |  kimberly.h.waldron@gmail.com
 ---
 
 
